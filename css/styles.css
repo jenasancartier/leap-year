@@ -1,0 +1,25 @@
+#result {
+  display: none;
+}
+
+body {
+  background-image: url("../img/time.jpeg");
+}
+
+.container {
+  background-color: hotpink;
+  max-width: 350px;
+  opacity: .09%;
+  margin-top: 2rem;
+  padding-bottom: 20px;
+  border-radius: 25px;
+}
+
+.btn {
+  margin-top: 15px;
+}
+
+.btn:hover {
+  background-color: black;
+  color: white;
+}
